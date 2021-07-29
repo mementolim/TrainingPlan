@@ -42,5 +42,6 @@ public class Kclosest {
         for (int c : b) {
             System.out.println(c);
         }
+        //aaaaaaaaa
     }
 }
